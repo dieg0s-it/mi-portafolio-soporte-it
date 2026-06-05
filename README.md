@@ -19,5 +19,5 @@ Soy un técnico en soporte IT enfocado en resolver problemas de infraestructura,
 
 | Plataforma | Enlace |
 |------------|--------|
-| 🔗 LinkedIn | [linkedin.com/in/tu-usuario](https://linkedin.com/in/diego-s-it/) |
+| 🔗 LinkedIn | [Linkedin](https://linkedin.com/in/diego-s-it/) |
 | ✉️ Email | diegoscaravaglione@pm.me |
