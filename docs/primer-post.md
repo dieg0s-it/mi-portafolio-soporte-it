@@ -26,3 +26,5 @@ Antes de aplicar soluciones, verificamos el estado actual de la red y DNS.
 Primero confirmamos que el servidor tiene acceso a internet saltando la resolución de nombres.
 ```bash
 ping -c 4 8.8.8.8
+
+<img width="812" height="273" alt="Captura desde 2026-06-08 11-45-11" src="https://github.com/user-attachments/assets/5ef4032b-e580-4e74-96a8-b603cf6ab259" />
