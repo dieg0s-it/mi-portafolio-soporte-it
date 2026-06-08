@@ -28,6 +28,7 @@ Primero confirmamos que el servidor tiene acceso a internet saltando la resoluci
 ```bash
 ping -c 4 8.8.8.8
 
+---
 
 ### Paso 12: Verificar resolución de nombres
 Ahora intentamos resolver un nombre de dominio
