@@ -24,13 +24,5 @@ Antes de aplicar soluciones, verificamos el estado actual de la red y DNS.
 
 ### Paso 1: Verificar conectividad básica (por IP)
 Primero confirmamos que el servidor tiene acceso a internet saltando la resolución de nombres.
-
 ```bash
 ping -c 4 8.8.8.8
-
----
-
-### Paso 12: Verificar resolución de nombres
-Ahora intentamos resolver un nombre de dominio
-
-ping -c 4 google.com
