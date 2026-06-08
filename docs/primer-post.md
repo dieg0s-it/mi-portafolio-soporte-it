@@ -36,6 +36,27 @@ Ahora intentamos resolver un nombre de dominio.
 ```bash
 ping -c 4 google.com
 ```
+![image alt](https://github.com/dieg0s-it/mi-portafolio-soporte-it/blob/b7b3fd695dfaa265f19ec85f3e3a04b46497ae6d/docs/Captura%20desde%202026-06-08%2013-36-17.png)
+
+## Paso 3: Revisar configuración DNS actual
+En versiones actuales de Ubuntu lo realizamos con Netplan
+```bash
+sudo cat /etc/netplan/*.yaml
+```
+## Paso 4: Verificar el resolv.conf
+Esto lo hacemos para comprobar qué servidores DNS está realmente usando el sistema
+```bash
+cat /run/systemd/resolve/resolv.conf
+```
+## ✅ Solución aplicada
+Como alternativa rápida, y para no editar archivos, optamos por reinicira el servicio de resolución:
+```bash
+sudo systemctl restart systemd-resolved
+```
+y verificamos que esté activo:
+```bash
+systemctl status systemd-resolved
+```
 
 
 
