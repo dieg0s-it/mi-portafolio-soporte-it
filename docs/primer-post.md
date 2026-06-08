@@ -24,7 +24,7 @@ Antes de aplicar soluciones, verificamos el estado actual de la red y DNS.
 
 ### Paso 1: Verificar conectividad básica (por IP)
 Primero confirmamos que el servidor tiene acceso a internet saltando la resolución de nombres.
-![image alt](https://github.com/user-attachments/assets/5ef4032b-e580-4e74-96a8-b603cf6ab259")
+![image alt](https://github.com/dieg0s-it/mi-portafolio-soporte-it/blob/d0791185ae156c459742325491389b10806cd11b/docs/Captura%20desde%202026-06-08%2011-45-11.png)
 
 
 ```bash
