@@ -31,5 +31,11 @@ ping -c 4 8.8.8.8
 ![image alt](https://github.com/dieg0s-it/mi-portafolio-soporte-it/blob/d0791185ae156c459742325491389b10806cd11b/docs/Captura%20desde%202026-06-08%2011-45-11.png)
 
 
+## Paso 2: Verificar resolución de nombres
+Ahora intentamos resolver un nombre de dominio.
+```bash
+ping -c 4 google.com
+```
+
 
 
