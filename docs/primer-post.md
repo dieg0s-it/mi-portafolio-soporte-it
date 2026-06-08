@@ -24,7 +24,9 @@ Antes de aplicar soluciones, verificamos el estado actual de la red y DNS.
 
 ### Paso 1: Verificar conectividad básica (por IP)
 Primero confirmamos que el servidor tiene acceso a internet saltando la resolución de nombres.
+![image alt](https://github.com/user-attachments/assets/5ef4032b-e580-4e74-96a8-b603cf6ab259")
+
+
 ```bash
 ping -c 4 8.8.8.8
 
-![image alt](https://github.com/user-attachments/assets/5ef4032b-e580-4e74-96a8-b603cf6ab259")
