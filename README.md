@@ -8,16 +8,3 @@
 </div>
 
 ---
-
-## 📋 Sobre Mí
-Soy un técnico en soporte IT enfocado en resolver problemas de infraestructura, redes y sistemas operativos. Este repositorio sirve como:
-- 📚 **Aprendizaje continuo:** Documentación de casos reales y soluciones aplicadas
-- 🛠️ **Portafolio práctico:** Scripts, automatizaciones y configuraciones demostrables
-- 🤝 **Recursos compartidos:** Guías útiles para otros profesionales del área
-
-- ## 📬 Contacto
-
-| Plataforma | Enlace |
-|------------|--------|
-| 🔗 LinkedIn | [Linkedin](https://linkedin.com/in/diego-s-it/) |
-| ✉️ Email | diegoscaravaglione@pm.me |
