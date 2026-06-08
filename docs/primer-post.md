@@ -28,7 +28,6 @@ Primero confirmamos que el servidor tiene acceso a internet saltando la resoluci
 ```bash
 ping -c 4 8.8.8.8
 
-![image alt] (https://github.com/dieg0s-it/mi-portafolio-soporte-it/blob/00572646d1485b5d65c4b46fae8b402a75c4e952/docs/Captura%20desde%202026-06-08%2011-45-11.png)
 
 ### Paso 12: Verificar resolución de nombres
 Ahora intentamos resolver un nombre de dominio
