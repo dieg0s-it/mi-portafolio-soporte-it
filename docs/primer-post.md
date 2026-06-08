@@ -57,6 +57,19 @@ y verificamos que esté activo:
 ```bash
 systemctl status systemd-resolved
 ```
+![image alt](https://github.com/dieg0s-it/mi-portafolio-soporte-it/blob/8ae10ec3906df6d7a0fab88e0c5672bbba83acbb/docs/Captura%20desde%202026-06-08%2013-50-12.png)
 
+## Validación final
+Verificamos que la solución funcionó ejecutando nuevamente los comandos de diagnóstico.
 
+Prueba 1: Resolución exitosa
+```bash
+nslookup google.com
+```
+Salida esperada: Muestra la dirección IP de Google (ej. 142.250.x.x) y el servidor DNS usado (Server: 8.8.8.8).
+
+Recursos:
+[Documentación oficial de Netplan](https://netplan.io)
+
+[Guía de resolución de problemas de red en Ubuntu](https://help.ubuntu.com/community/NetworkDocumentation)
 
