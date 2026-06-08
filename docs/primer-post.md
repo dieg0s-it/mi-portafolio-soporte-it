@@ -68,8 +68,9 @@ nslookup google.com
 ```
 Salida esperada: Muestra la dirección IP de Google (ej. 142.250.x.x) y el servidor DNS usado (Server: 8.8.8.8).
 
-Recursos:
+## Recursos:
 [Documentación oficial de Netplan](https://netplan.io)
 
 [Guía de resolución de problemas de red en Ubuntu](https://help.ubuntu.com/community/NetworkDocumentation)
 
+**Etiquetas:** `#Linux` `#Ubuntu` `#DNS` `#Redes` `#SysAdmin`
