@@ -7,4 +7,8 @@
 
 </div>
 
+**Dentro de la carpeta /docs**, encontrarás mis post y/o artículos.
+
+**Dentro de la carpeta /assets**, se ubican las imágenes, diagramas o capturas de pantalla de las soluciones.
+
 ---
