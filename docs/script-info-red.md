@@ -33,7 +33,7 @@ Invoke-Command -ComputerName $equipo -ScriptBlock {
 
 [Instalación y configuración de la gestión remota de Windows](https://learn.microsoft.com/es-es/windows/win32/winrm/installation-and-configuration-for-windows-remote-management)
 
-**Etiquetas:** #Windows #PowerShell #Scripts #SoporteIT #Troubleshooting
+**Etiquetas:** `#Windows` `#PowerShell` `#Scripts` `#SoporteIT` `#Troubleshooting`
 
 
 
